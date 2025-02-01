@@ -1,0 +1,15 @@
+# Entorno virtual
+amp_project/
+
+# Directorio de datos
+data/
+
+# Posible directorio del vscode
+.vscode/
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.bak
+*.swp
